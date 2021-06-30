@@ -28,6 +28,8 @@ non-fluents nf_wildfire_inst_mdp__2 {
 		NEIGHBOR(x3,y2,x2,y2);
 		NEIGHBOR(x3,y2,x3,y1);
 		TARGET(x3,y1);
+		
+		TARGET(x2,y2);
 	};
 }
 
@@ -39,6 +41,6 @@ instance wildfire_inst_mdp__2 {
 	};
 
 	max-nondef-actions = 1;
-	horizon  = 20;
+	horizon  = 8;
 	discount = 1.0;
 }

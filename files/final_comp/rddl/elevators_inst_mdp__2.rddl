@@ -2,15 +2,14 @@ non-fluents nf_elevators_inst_mdp__2 {
 	domain = elevators_mdp_2; 
 	objects { 
 		elevator : {e0};
-		floor : {f0,f1,f2,f3}; 
+		floor : {f0,f1,f2}; 
 	}; 
 	non-fluents {
 		ELEVATOR-PENALTY-RIGHT-DIR = 0.75;
 		ELEVATOR-PENALTY-WRONG-DIR = 3.0;
 		ADJACENT-UP(f0,f1) = true;
 		ADJACENT-UP(f1,f2) = true;
-		ADJACENT-UP(f2,f3) = true;
-		TOP-FLOOR(f3) = true;
+		TOP-FLOOR(f2) = true;
 		BOTTOM-FLOOR(f0) = true;
  	}; 
  }
@@ -20,10 +19,9 @@ instance elevators_inst_mdp__2 {
 	init-state { 
 		elevator-at-floor(e0,f0);
 		person-waiting-up(f1);
-		person-waiting-down(f2);
 	};
 	max-nondef-actions = 2;
-	horizon = 20;
+	horizon = 6;
 	discount = 1.0;
 } 
 

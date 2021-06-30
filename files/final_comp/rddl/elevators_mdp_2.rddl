@@ -56,7 +56,7 @@ domain elevators_mdp_2 {
 		
 		// Person waiting state
 		person-waiting-up(floor)   : { state-fluent, bool, default = false };
-		person-waiting-down(floor) : { state-fluent, bool, default = false };
+		person-waiting-down(floor)   : { state-fluent, bool, default = false };
 		person-in-elevator-going-up(elevator)   : { state-fluent, bool, default = false };
 		person-in-elevator-going-down(elevator) : { state-fluent, bool, default = false };
 		
@@ -176,25 +176,29 @@ domain elevators_mdp_2 {
   
   	// Reward is a sum of waiting penalties for those in elevators and at floor
 	reward = 
-		[sum_{?e: elevator} [
-			-ELEVATOR-PENALTY-RIGHT-DIR * (person-in-elevator-going-up(?e) ^ elevator-dir-up(?e))
-		]] + 
-		[sum_{?e: elevator} [
-			-ELEVATOR-PENALTY-RIGHT-DIR * (person-in-elevator-going-down(?e) ^ ~elevator-dir-up(?e))
-		]] + 
-		[sum_{?e: elevator} [
-			-ELEVATOR-PENALTY-WRONG-DIR * (person-in-elevator-going-up(?e) ^ ~elevator-dir-up(?e))
-		]] + 
-		[sum_{?e: elevator} [
-			-ELEVATOR-PENALTY-WRONG-DIR * (person-in-elevator-going-down(?e) ^ elevator-dir-up(?e))
-		]] + 
-		[sum_{?f: floor} [
-			- person-waiting-up(?f) - person-waiting-down(?f)
-		]];
-		// + 
-		//[sum_{?f: floor, ?e: elevator} [
-		//	ELEVATOR-REWARD-DONE * (~person-in-elevator-going-up(?e) ^ ~person-in-elevator-going-down(?e) ^ ~person-waiting-up(?f) ^ ~person-waiting-down(?f))
-		//]];
+		if (forall_{?f: floor, ?e: elevator} [~person-in-elevator-going-up(?e) ^ ~person-in-elevator-going-down(?e) ^ ~person-waiting-up(?f) ^ ~person-waiting-down(?f)])
+			then ELEVATOR-REWARD-DONE
+		else
+			
+			[sum_{?e: elevator} [
+				-ELEVATOR-PENALTY-RIGHT-DIR * (person-in-elevator-going-up(?e) ^ elevator-dir-up(?e))
+			]] + 
+			[sum_{?e: elevator} [
+				-ELEVATOR-PENALTY-RIGHT-DIR * (person-in-elevator-going-down(?e) ^ ~elevator-dir-up(?e))
+			]] + 
+			[sum_{?e: elevator} [
+				-ELEVATOR-PENALTY-WRONG-DIR * (person-in-elevator-going-up(?e) ^ ~elevator-dir-up(?e))
+			]] + 
+			[sum_{?e: elevator} [
+				-ELEVATOR-PENALTY-WRONG-DIR * (person-in-elevator-going-down(?e) ^ elevator-dir-up(?e))
+			]] + 
+			[sum_{?f: floor} [
+				- person-waiting-up(?f) - person-waiting-down(?f)
+			]];
+		 ///+ 
+		///[sum_{?f: floor, ?e: elevator} [
+		///	ELEVATOR-REWARD-DONE * 
+		///]];
 
 	state-action-constraints {
 		// Can check uniqueness constraint in many ways, but for simulator easiest 

@@ -100,7 +100,8 @@ domain navigation_mdp {
 	};
 	
 	// 0 reward for reaching goal, -1 in all other cases
-	reward = [sum_{?x : xpos, ?y : ypos} -(GOAL(?x,?y) ^ ~robot-at(?x,?y))]; 
+	reward = [sum_{?x : xpos, ?y : ypos} -(GOAL(?x,?y) ^ ~robot-at(?x,?y))] +
+				[sum_{?x : xpos, ?y : ypos} (GOAL(?x,?y) ^ robot-at(?x,?y))]; 
 	
 //	state-action-constraints {
 //	

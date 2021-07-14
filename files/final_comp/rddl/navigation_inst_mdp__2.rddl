@@ -33,7 +33,7 @@ instance navigation_inst_mdp__2 {
 		robot-at(x9,y12);
 	};
 	max-nondef-actions = 1;
-	horizon = 25;
+	horizon = 5;
 	discount = 1.0;
 }
 

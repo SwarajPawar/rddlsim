@@ -47,7 +47,7 @@ domain elevators_mdp_2 {
 		// Note: a constant 1.0 penalty for people waiting at a floor 
 		ELEVATOR-PENALTY-RIGHT-DIR : { non-fluent, real, default = 0.75 };
 		ELEVATOR-PENALTY-WRONG-DIR : { non-fluent, real, default = 3.00 };
-		ELEVATOR-REWARD-DONE : { non-fluent, real, default = 10.00 };
+		ELEVATOR-REWARD-DONE : { non-fluent, real, default = 5.00 };
 
 		// Useful definitions
 		TOP-FLOOR(floor)          : { non-fluent, bool, default = false };

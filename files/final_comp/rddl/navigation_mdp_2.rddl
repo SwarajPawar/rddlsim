@@ -37,7 +37,7 @@
 // 
 ////////////////////////////////////////////////////////////////////
 
-domain navigation_mdp {
+domain navigation_mdp_2 {
 	requirements = {
 //		constrained-state,
 		reward-deterministic

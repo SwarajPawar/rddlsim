@@ -17,7 +17,7 @@ non-fluents nf_navigation_inst_mdp__2 {
 		MAX-YPOS(y20);
 
 		P(x6,y15) = 0.04896671138703823;
-		P(x9,y15) = 0.6369951789577802;
+		P(x9,y15) = 0.9369951789577802;
 
 		MIN-XPOS(x6);
 		MAX-XPOS(x9);

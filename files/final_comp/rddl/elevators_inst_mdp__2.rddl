@@ -21,7 +21,7 @@ instance elevators_inst_mdp__2 {
 		person-waiting-up(f1);
 	};
 	max-nondef-actions = 2;
-	horizon = 6;
+	horizon = 5;
 	discount = 1.0;
 } 
 

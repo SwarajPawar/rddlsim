@@ -47,6 +47,6 @@ instance game_of_life_inst_mdp__2 {
 	};
 
 	max-nondef-actions = 1;
-	horizon  = 40;
+	horizon  = 5;
 	discount = 1.0;
 }

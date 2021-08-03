@@ -8,12 +8,11 @@ non-fluents nf_sysadmin_inst_mdp__2 {
 		CONNECTED(c1,c2);
 		CONNECTED(c2,c3);
 		CONNECTED(c3,c4);
-		CONNECTED(c3,c4);
 		CONNECTED(c4,c1);
 		CONNECTED(c1,c5);
 		CONNECTED(c2,c5);
-		CONNECTED(c3,c5);
-		CONNECTED(c4,c5);
+		CONNECTED(c5,c3);
+		CONNECTED(c5,c4);
 	};
 }
 
@@ -25,10 +24,9 @@ instance sysadmin_inst_mdp__2 {
 		running(c2);
 		running(c3);
 		running(c4);
-		running(c5);
 	};
 
 	max-nondef-actions = 1;
-	horizon  = 5;
+	horizon  = 4;
 	discount = 1.0;
 }

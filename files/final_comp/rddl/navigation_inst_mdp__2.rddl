@@ -1,5 +1,5 @@
 non-fluents nf_navigation_inst_mdp__2 {
-	domain = navigation_mdp_2;
+	domain = navigation_mdp;
 	objects {
 		xpos : {x6,x9};
 		ypos : {y12,y20,y15};
@@ -17,7 +17,7 @@ non-fluents nf_navigation_inst_mdp__2 {
 		MAX-YPOS(y20);
 
 		P(x6,y15) = 0.04896671138703823;
-		P(x9,y15) = 0.9369951789577802;
+		P(x9,y15) = 0.928158446525534;
 
 		MIN-XPOS(x6);
 		MAX-XPOS(x9);
@@ -27,7 +27,7 @@ non-fluents nf_navigation_inst_mdp__2 {
 }
 
 instance navigation_inst_mdp__2 {
-	domain = navigation_mdp_2;
+	domain = navigation_mdp;
 	non-fluents = nf_navigation_inst_mdp__2;
 	init-state {
 		robot-at(x9,y12);

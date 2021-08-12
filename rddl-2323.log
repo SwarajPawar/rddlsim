@@ -3090,3 +3090,229 @@
 <session-end><instance-name>sysadmin_inst_mdp__2</instance-name><total-reward>409.25</total-reward><rounds-used>30</rounds-used><client-name>prost</client-name><session-id>1</session-id><time-left>1077267</time-left></session-end>
 <?xml version="1.0" encoding="UTF-8"?>
 <client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>0</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1055047</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>1</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054964</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>2</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054895</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>3</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054828</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>4</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054763</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>5</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1054681</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>6</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054606</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>7</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054541</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>8</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054477</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>9</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1054413</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>10</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054348</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>11</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1054283</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>12</round-num><round-reward>13.0</round-reward><turns-used>3</turns-used><time-left>1054221</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>13</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1054158</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>14</round-num><round-reward>14.0</round-reward><turns-used>3</turns-used><time-left>1054094</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>15</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1054024</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>16</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1053960</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>17</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053888</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>18</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053826</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>19</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053766</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>20</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053705</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>21</round-num><round-reward>13.0</round-reward><turns-used>3</turns-used><time-left>1053625</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>22</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053551</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>23</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1053477</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>24</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1053407</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>25</round-num><round-reward>13.0</round-reward><turns-used>3</turns-used><time-left>1053337</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>26</round-num><round-reward>13.0</round-reward><turns-used>3</turns-used><time-left>1053265</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>27</round-num><round-reward>14.0</round-reward><turns-used>3</turns-used><time-left>1053201</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>28</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053130</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>29</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1053059</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<session-end><instance-name>game_of_life_inst_mdp__2</instance-name><total-reward>350.0</total-reward><rounds-used>30</rounds-used><client-name>prost</client-name><session-id>4</session-id><time-left>1053057</time-left></session-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>0</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1079040</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>1</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078840</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>2</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078693</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>3</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078564</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>4</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078422</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>5</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078322</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>6</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078206</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>7</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078090</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>8</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077982</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>9</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077873</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>10</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077779</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>11</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077683</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>12</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077583</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>13</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077446</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>14</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077367</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>15</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077266</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>16</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077177</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>17</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077093</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>18</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077002</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>19</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076904</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>20</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076808</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>21</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076707</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>22</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076593</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>23</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076511</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>24</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076414</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>25</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076314</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>26</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076217</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>27</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076127</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>28</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076035</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>29</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1075950</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<session-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><total-reward>-150.0</total-reward><rounds-used>30</rounds-used><client-name>prost</client-name><session-id>2</session-id><time-left>1075949</time-left></session-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>0</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078875</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>1</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078690</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>2</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078573</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>3</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078465</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>4</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078367</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>5</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078236</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>6</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078132</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>7</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1078019</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>8</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077907</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>9</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077806</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>10</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077708</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>11</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077631</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>12</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077553</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>13</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077478</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>14</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077403</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>15</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077328</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>16</round-num><round-reward>-2.0</round-reward><turns-used>5</turns-used><time-left>1077252</time-left><immediate-reward>0.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>17</round-num><round-reward>-4.0</round-reward><turns-used>5</turns-used><time-left>1077172</time-left><immediate-reward>0.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>18</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077086</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>19</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1077008</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>20</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076927</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>21</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076834</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>22</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076687</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>23</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076593</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>24</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076508</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>25</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076433</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>26</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076342</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>27</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076270</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>28</round-num><round-reward>-5.0</round-reward><turns-used>5</turns-used><time-left>1076196</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>29</round-num><round-reward>-3.0</round-reward><turns-used>5</turns-used><time-left>1076121</time-left><immediate-reward>0.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<session-end><instance-name>crossing_traffic_inst_mdp__2</instance-name><total-reward>-144.0</total-reward><rounds-used>30</rounds-used><client-name>prost</client-name><session-id>3</session-id><time-left>1076120</time-left></session-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>

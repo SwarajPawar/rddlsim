@@ -1,0 +1,39 @@
+non-fluents nf_navigation_inst_pomdp__2 {
+	domain = navigation_pomdp_2;
+	objects {
+		xpos : {x6,x9};
+		ypos : {y12,y20,y15};
+	};
+	non-fluents {
+		SOUTH(y15,y12);
+		NORTH(y12,y15);
+		NORTH(y15,y20);		
+		SOUTH(y20,y15);
+		
+		WEST(x9,x6);
+		EAST(x6,x9);
+
+		MIN-YPOS(y12);
+		MAX-YPOS(y20);
+
+		P(x6,y15) = 0.04896671138703823;
+		P(x9,y15) = 0.928158446525534;
+
+		MIN-XPOS(x6);
+		MAX-XPOS(x9);
+
+		GOAL(x9,y20);
+	};
+}
+
+instance navigation_inst_pomdp__2 {
+	domain = navigation_pomdp_2;
+	non-fluents = nf_navigation_inst_pomdp__2;
+	init-state {
+		robot-at(x9,y12);
+	};
+	max-nondef-actions = 1;
+	horizon = 5;
+	discount = 1.0;
+}
+

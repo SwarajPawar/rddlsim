@@ -3490,3 +3490,155 @@
 <client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
 <?xml version="1.0" encoding="UTF-8"?>
 <client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>0</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1077318</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>1</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1077250</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>2</round-num><round-reward>5.0</round-reward><turns-used>3</turns-used><time-left>1077186</time-left><immediate-reward>-1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>3</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1077123</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>4</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1077060</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>5</round-num><round-reward>13.0</round-reward><turns-used>3</turns-used><time-left>1076981</time-left><immediate-reward>7.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>6</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1076920</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>7</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076859</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>8</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076799</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>9</round-num><round-reward>8.0</round-reward><turns-used>3</turns-used><time-left>1076739</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>10</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076680</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>11</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076620</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>12</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076560</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>13</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076500</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>14</round-num><round-reward>13.0</round-reward><turns-used>3</turns-used><time-left>1076442</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>15</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076383</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>16</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076324</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>17</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076266</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>18</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076208</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>19</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076149</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>20</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076091</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>21</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076033</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>22</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1075975</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>23</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1075917</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>24</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1075860</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>25</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1075803</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>26</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1075746</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>27</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1075687</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>28</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1075629</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>29</round-num><round-reward>6.0</round-reward><turns-used>3</turns-used><time-left>1075572</time-left><immediate-reward>1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<session-end><instance-name>game_of_life_inst_mdp__2</instance-name><total-reward>314.0</total-reward><rounds-used>30</rounds-used><client-name>prost</client-name><session-id>5</session-id><time-left>1075571</time-left></session-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>0</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1077004</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>1</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076948</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>2</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076891</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>3</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076834</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>4</round-num><round-reward>8.0</round-reward><turns-used>3</turns-used><time-left>1076771</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>5</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1076713</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>6</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076657</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>7</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076600</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>8</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1076543</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>9</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076486</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>10</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1076429</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>11</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076372</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>12</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1076315</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>13</round-num><round-reward>6.0</round-reward><turns-used>3</turns-used><time-left>1076258</time-left><immediate-reward>1.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>14</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076202</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>15</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1076146</time-left><immediate-reward>2.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>16</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1076089</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>17</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1076032</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>18</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1075976</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>19</round-num><round-reward>10.0</round-reward><turns-used>3</turns-used><time-left>1075920</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>20</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1075864</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>21</round-num><round-reward>8.0</round-reward><turns-used>3</turns-used><time-left>1075808</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>22</round-num><round-reward>11.0</round-reward><turns-used>3</turns-used><time-left>1075752</time-left><immediate-reward>5.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>23</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1075697</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>24</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1075640</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>25</round-num><round-reward>12.0</round-reward><turns-used>3</turns-used><time-left>1075584</time-left><immediate-reward>6.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>26</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1075528</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>27</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1075472</time-left><immediate-reward>2.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>28</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1075417</time-left><immediate-reward>3.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<round-end><instance-name>game_of_life_inst_mdp__2</instance-name><client-name>prost</client-name><round-num>29</round-num><round-reward>9.0</round-reward><turns-used>3</turns-used><time-left>1075360</time-left><immediate-reward>4.0</immediate-reward></round-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<session-end><instance-name>game_of_life_inst_mdp__2</instance-name><total-reward>304.0</total-reward><rounds-used>30</rounds-used><client-name>prost</client-name><session-id>6</session-id><time-left>1075359</time-left></session-end>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>
+<?xml version="1.0" encoding="UTF-8"?>
+<client-info><client-hostname>localhost</client-hostname><client-ip>127.0.0.1</client-ip></client-info>

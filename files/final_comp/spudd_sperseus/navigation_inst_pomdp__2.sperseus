@@ -1,0 +1,673 @@
+// Automatically produced by rddl.translate.RDDL2Format
+// SPUDD / Symbolic Perseus Format for 'navigation_pomdp_2.navigation_inst_pomdp__2'
+
+(variables 
+	(robot_at__x6_y12 true false)
+	(robot_at__x6_y20 true false)
+	(robot_at__x6_y15 true false)
+	(robot_at__x9_y12 true false)
+	(robot_at__x9_y20 true false)
+	(robot_at__x9_y15 true false)
+)
+
+(observations 
+	(robot_obs__x6_y12 true false)
+	(robot_obs__x6_y20 true false)
+	(robot_obs__x6_y15 true false)
+	(robot_obs__x9_y12 true false)
+	(robot_obs__x9_y20 true false)
+	(robot_obs__x9_y15 true false)
+)
+
+init [*
+	(robot_at__x6_y12 (true (0.0)) (false (1.0)))
+	(robot_at__x6_y20 (true (0.0)) (false (1.0)))
+	(robot_at__x6_y15 (true (0.0)) (false (1.0)))
+	(robot_at__x9_y12 (true (1.0)) (false (0.0)))
+	(robot_at__x9_y20 (true (0.0)) (false (1.0)))
+	(robot_at__x9_y15 (true (0.0)) (false (1.0)))
+]
+
+action move_east
+	robot_at__x6_y12
+		(robot_at__x6_y12' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x6_y20
+		(robot_at__x6_y20' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x6_y15
+		(robot_at__x6_y15' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x9_y12
+		(robot_at__x6_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x9_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y12' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x9_y12 
+				(true (robot_at__x9_y20 
+					(true (robot_at__x9_y12' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x9_y12' 
+						(true (1.0))
+						(false (0.0))))))
+				(false (robot_at__x9_y12' 
+					(true (0.0))
+					(false (1.0)))))))
+	robot_at__x9_y20
+		(robot_at__x6_y20 
+			(true (robot_at__x9_y20' 
+				(true (1.0))
+				(false (0.0))))
+			(false (robot_at__x9_y20 
+				(true (robot_at__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_at__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))))
+	robot_at__x9_y15
+		(robot_at__x6_y15 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x9_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y15' 
+					(true (0.07184155347446597))
+					(false (0.928158446525534))))))
+			(false (robot_at__x9_y20 
+				(true (robot_at__x9_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y15 
+					(true (robot_at__x9_y15' 
+						(true (1.0))
+						(false (0.0))))
+					(false (robot_at__x9_y15' 
+						(true (0.0))
+						(false (1.0)))))))))
+	observe 
+		robot_obs__x6_y12
+			(robot_at__x6_y12 
+				(true (robot_obs__x6_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y20
+			(robot_at__x6_y20 
+				(true (robot_obs__x6_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y15
+			(robot_at__x6_y15 
+				(true (robot_obs__x6_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y15' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y12
+			(robot_at__x9_y12 
+				(true (robot_obs__x9_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y20
+			(robot_at__x9_y20 
+				(true (robot_obs__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y15
+			(robot_at__x9_y15 
+				(true (robot_obs__x9_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y15' 
+					(true (0.0))
+					(false (1.0)))))
+	endobserve
+	cost [+ 
+		(robot_at__x9_y20 
+			(true (0.0))
+			(false (1.0)))
+	]
+endaction
+
+action move_north
+	robot_at__x6_y12
+		(robot_at__x6_y12' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x6_y20
+		(robot_at__x6_y20 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y20' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y20' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x6_y15 
+				(true (robot_at__x9_y20 
+					(true (robot_at__x6_y20' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x6_y20' 
+						(true (1.0))
+						(false (0.0))))))
+				(false (robot_at__x6_y20' 
+					(true (0.0))
+					(false (1.0)))))))
+	robot_at__x6_y15
+		(robot_at__x6_y12 
+			(true (robot_at__x6_y15 
+				(true (robot_at__x6_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y20 
+					(true (robot_at__x6_y15' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x6_y15' 
+						(true (0.9510332886129618))
+						(false (0.04896671138703823))))))))
+			(false (robot_at__x6_y15' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y12
+		(robot_at__x9_y12' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x9_y20
+		(robot_at__x9_y20 
+			(true (robot_at__x9_y20' 
+				(true (1.0))
+				(false (0.0))))
+			(false (robot_at__x9_y15 
+				(true (robot_at__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_at__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))))
+	robot_at__x9_y15
+		(robot_at__x9_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x9_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y15 
+					(true (robot_at__x9_y15' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x9_y15' 
+						(true (0.07184155347446597))
+						(false (0.928158446525534))))))))
+			(false (robot_at__x9_y15' 
+				(true (0.0))
+				(false (1.0)))))
+	observe 
+		robot_obs__x6_y12
+			(robot_at__x6_y12 
+				(true (robot_obs__x6_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y20
+			(robot_at__x6_y20 
+				(true (robot_obs__x6_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y15
+			(robot_at__x6_y15 
+				(true (robot_obs__x6_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y15' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y12
+			(robot_at__x9_y12 
+				(true (robot_obs__x9_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y20
+			(robot_at__x9_y20 
+				(true (robot_obs__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y15
+			(robot_at__x9_y15 
+				(true (robot_obs__x9_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y15' 
+					(true (0.0))
+					(false (1.0)))))
+	endobserve
+	cost [+ 
+		(robot_at__x9_y20 
+			(true (0.0))
+			(false (1.0)))
+	]
+endaction
+
+action move_south
+	robot_at__x6_y12
+		(robot_at__x6_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y12' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x6_y15 
+				(true (robot_at__x9_y20 
+					(true (robot_at__x6_y12' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x6_y12' 
+						(true (1.0))
+						(false (0.0))))))
+				(false (robot_at__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))))
+	robot_at__x6_y20
+		(robot_at__x6_y20' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x6_y15
+		(robot_at__x6_y20 
+			(true (robot_at__x6_y15 
+				(true (robot_at__x6_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y20 
+					(true (robot_at__x6_y15' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x6_y15' 
+						(true (0.9510332886129618))
+						(false (0.04896671138703823))))))))
+			(false (robot_at__x6_y15' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y12
+		(robot_at__x9_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x9_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y12' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x9_y20 
+				(true (robot_at__x9_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y15 
+					(true (robot_at__x9_y12' 
+						(true (1.0))
+						(false (0.0))))
+					(false (robot_at__x9_y12' 
+						(true (0.0))
+						(false (1.0)))))))))
+	robot_at__x9_y20
+		(robot_at__x9_y20 
+			(true (robot_at__x9_y20' 
+				(true (1.0))
+				(false (0.0))))
+			(false (robot_at__x9_y20' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y15
+		(robot_at__x9_y15' 
+			(true (0.0))
+			(false (1.0)))
+	observe 
+		robot_obs__x6_y12
+			(robot_at__x6_y12 
+				(true (robot_obs__x6_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y20
+			(robot_at__x6_y20 
+				(true (robot_obs__x6_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y15
+			(robot_at__x6_y15 
+				(true (robot_obs__x6_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y15' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y12
+			(robot_at__x9_y12 
+				(true (robot_obs__x9_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y20
+			(robot_at__x9_y20 
+				(true (robot_obs__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y15
+			(robot_at__x9_y15 
+				(true (robot_obs__x9_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y15' 
+					(true (0.0))
+					(false (1.0)))))
+	endobserve
+	cost [+ 
+		(robot_at__x9_y20 
+			(true (0.0))
+			(false (1.0)))
+	]
+endaction
+
+action move_west
+	robot_at__x6_y12
+		(robot_at__x6_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y12' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x9_y12 
+				(true (robot_at__x9_y20 
+					(true (robot_at__x6_y12' 
+						(true (0.0))
+						(false (1.0))))
+					(false (robot_at__x6_y12' 
+						(true (1.0))
+						(false (0.0))))))
+				(false (robot_at__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))))
+	robot_at__x6_y20
+		(robot_at__x6_y20 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y20' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y20' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x6_y20' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x6_y15
+		(robot_at__x6_y15 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y15 
+					(true (robot_at__x6_y15' 
+						(true (0.9510332886129618))
+						(false (0.04896671138703823))))
+					(false (robot_at__x6_y15' 
+						(true (1.0))
+						(false (0.0))))))))
+			(false (robot_at__x9_y20 
+				(true (robot_at__x6_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y15 
+					(true (robot_at__x6_y15' 
+						(true (0.9510332886129618))
+						(false (0.04896671138703823))))
+					(false (robot_at__x6_y15' 
+						(true (0.0))
+						(false (1.0)))))))))
+	robot_at__x9_y12
+		(robot_at__x9_y12' 
+			(true (0.0))
+			(false (1.0)))
+	robot_at__x9_y20
+		(robot_at__x9_y20 
+			(true (robot_at__x9_y20' 
+				(true (1.0))
+				(false (0.0))))
+			(false (robot_at__x9_y20' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y15
+		(robot_at__x9_y15' 
+			(true (0.0))
+			(false (1.0)))
+	observe 
+		robot_obs__x6_y12
+			(robot_at__x6_y12 
+				(true (robot_obs__x6_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y20
+			(robot_at__x6_y20 
+				(true (robot_obs__x6_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y15
+			(robot_at__x6_y15 
+				(true (robot_obs__x6_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y15' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y12
+			(robot_at__x9_y12 
+				(true (robot_obs__x9_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y20
+			(robot_at__x9_y20 
+				(true (robot_obs__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y15
+			(robot_at__x9_y15 
+				(true (robot_obs__x9_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y15' 
+					(true (0.0))
+					(false (1.0)))))
+	endobserve
+	cost [+ 
+		(robot_at__x9_y20 
+			(true (0.0))
+			(false (1.0)))
+	]
+endaction
+
+action noop
+	robot_at__x6_y12
+		(robot_at__x6_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y12' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x6_y12' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x6_y20
+		(robot_at__x6_y20 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y20' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y20' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x6_y20' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x6_y15
+		(robot_at__x6_y15 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x6_y15' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x6_y15' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x6_y15' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y12
+		(robot_at__x9_y12 
+			(true (robot_at__x9_y20 
+				(true (robot_at__x9_y12' 
+					(true (0.0))
+					(false (1.0))))
+				(false (robot_at__x9_y12' 
+					(true (1.0))
+					(false (0.0))))))
+			(false (robot_at__x9_y12' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y20
+		(robot_at__x9_y20 
+			(true (robot_at__x9_y20' 
+				(true (1.0))
+				(false (0.0))))
+			(false (robot_at__x9_y20' 
+				(true (0.0))
+				(false (1.0)))))
+	robot_at__x9_y15
+		(robot_at__x9_y20 
+			(true (robot_at__x9_y15' 
+				(true (0.0))
+				(false (1.0))))
+			(false (robot_at__x9_y15 
+				(true (robot_at__x9_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_at__x9_y15' 
+					(true (0.0))
+					(false (1.0)))))))
+	observe 
+		robot_obs__x6_y12
+			(robot_at__x6_y12 
+				(true (robot_obs__x6_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y20
+			(robot_at__x6_y20 
+				(true (robot_obs__x6_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x6_y15
+			(robot_at__x6_y15 
+				(true (robot_obs__x6_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x6_y15' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y12
+			(robot_at__x9_y12 
+				(true (robot_obs__x9_y12' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y12' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y20
+			(robot_at__x9_y20 
+				(true (robot_obs__x9_y20' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y20' 
+					(true (0.0))
+					(false (1.0)))))
+		robot_obs__x9_y15
+			(robot_at__x9_y15 
+				(true (robot_obs__x9_y15' 
+					(true (1.0))
+					(false (0.0))))
+				(false (robot_obs__x9_y15' 
+					(true (0.0))
+					(false (1.0)))))
+	endobserve
+	cost [+ 
+		(robot_at__x9_y20 
+			(true (0.0))
+			(false (1.0)))
+	]
+endaction
+
+reward
+	(0.0)
+
+discount 1.0
+horizon 5

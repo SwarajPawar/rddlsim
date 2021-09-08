@@ -39,7 +39,7 @@ instance recon_inst_mdp__1 {
 		agentAt(a1,x0,y1);
 	};
 	max-nondef-actions = 1;
-	horizon = 40;
+	horizon = 10;
 	discount = 1.0;
 } 
 

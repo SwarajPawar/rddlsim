@@ -6,6 +6,20 @@
 // the most cells alive.
 //
 // Author: Scott Sanner (ssanner [at] gmail.com)
+//
+// Grid inst__1  and inst__2
+//
+//    X X .
+//    . X .
+//    X . .
+//
+//
+// Grid inst__3
+//
+//    X X .
+//    X . X
+//
+//
 ////////////////////////////////////////////////////////////////////
 domain game_of_life_mdp {
   	
